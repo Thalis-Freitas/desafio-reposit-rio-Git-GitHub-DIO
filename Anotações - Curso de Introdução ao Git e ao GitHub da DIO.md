@@ -1,8 +1,9 @@
 # Anotações sobre alguns dos pontos estudados durante o curso de Introdução ao Git e ao GitHub da DIO.
 
-### GIT é um sistema de versionamento de código distribuído, possui CLI (commanding-line interface), interface onde a interação é feita por linha de comando
+### GIT é um sistema de versionamento de código distribuído, possui CLI (commanding-line interface), interface onde a interação é feita por linha de comando.
 
 ##### Comandos aprendidos:
+
 - **dir/ls**: exibe a lista de de arquivos e subdiretórios de um diretório;
 - **cd**: serve para entrar em um diretório;
 - **cls/clear ou CTRL + L**: limpa o terminal;
@@ -21,7 +22,7 @@
 - **git push**: utilizado para enviar o conteúdo do repositório local para um repositório na nuvem;
 - **git pull**: puxa os conteúdos que estão no repositório remoto para o repositório local.
 
-##### Atalhos
+##### Atalhos:
 
 - *TAB*: tem a função de autocompletar;
-- *Tecla seta para cima*: serve para navegar entre o histórico de comandos que foram executados no terminal;
+- *Tecla seta para cima*: serve para navegar entre o histórico de comandos que foram executados no terminal.
