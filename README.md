@@ -1,4 +1,4 @@
-# Desafio primeiro repositório com Git e GitHub.
+# Desafio primeiro repositório com Git e GitHub
 Repositório criado para desafio do bootcamp TQI Fullstack Developer da DIO.
 
 ## **Links úteis:**
