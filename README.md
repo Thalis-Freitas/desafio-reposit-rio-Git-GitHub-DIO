@@ -1,7 +1,7 @@
 # Desafio primeiro repositório com Git e GitHub.
 Repositório criado para desafio do bootcamp TQI Fullstack Developer da DIO.
 
-##**Links úteis:**
+## **Links úteis:**
 
 - [Sintaxe Básica do Markdown](https://www.markdownguide.org/basic-syntax/#links).
 
